@@ -42,3 +42,16 @@ Z:\My Documents\Alan\School\Fall 15\CS 3450\Set Project\SET\SET\obj\Debug\SET.cs
 Z:\My Documents\Alan\School\Fall 15\CS 3450\Set Project\SET\SET\obj\Debug\SET.exe
 Z:\My Documents\Alan\School\Fall 15\CS 3450\Set Project\SET\SET\obj\Debug\SET.pdb
 Z:\My Documents\Alan\School\Fall 15\CS 3450\Set Project\SET\SET\obj\Debug\SET.GameBoard.resources
+C:\Users\Randy\Source\Repos\SET\SET\bin\Debug\SET.exe.config
+C:\Users\Randy\Source\Repos\SET\SET\obj\Debug\SET.exe
+C:\Users\Randy\Source\Repos\SET\SET\obj\Debug\SET.pdb
+C:\Users\Randy\Source\Repos\SET\SET\bin\Debug\SET.exe
+C:\Users\Randy\Source\Repos\SET\SET\bin\Debug\SET.pdb
+C:\Users\Randy\Source\Repos\SET\SET\obj\Debug\SET.csprojResolveAssemblyReference.cache
+C:\Users\Randy\Source\Repos\SET\SET\obj\Debug\SET.GameBoard.resources
+C:\Users\Randy\Source\Repos\SET\SET\obj\Debug\SET.GeneralOptions.resources
+C:\Users\Randy\Source\Repos\SET\SET\obj\Debug\SET.Lobby.resources
+C:\Users\Randy\Source\Repos\SET\SET\obj\Debug\SET.LobbyFinder.resources
+C:\Users\Randy\Source\Repos\SET\SET\obj\Debug\SET.MainMenu.resources
+C:\Users\Randy\Source\Repos\SET\SET\obj\Debug\SET.Properties.Resources.resources
+C:\Users\Randy\Source\Repos\SET\SET\obj\Debug\SET.csproj.GenerateResource.Cache
